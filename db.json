@@ -1,0 +1,1072 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "discountPercentage": 1,
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "discountPercentage": 2,
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "discountPercentage": 3,
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "discountPercentage": 4,
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "discountPercentage": 5,
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave ",
+      "discountPercentage": 6,
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess",
+      "discountPercentage": 7,
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "8",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "discountPercentage": 8,
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "9",
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "discountPercentage": 9,
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": "10",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "discountPercentage": 10,
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": "11",
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "discountPercentage": 11,
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": "12",
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "discountPercentage": 12,
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": "13",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "discountPercentage": 13,
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": "14",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "discountPercentage": 14,
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": "15",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "discountPercentage": 15,
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "discountPercentage": 16,
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": "17",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "discountPercentage": 17,
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": "18",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "discountPercentage": 18,
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": "19",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "discountPercentage": 19,
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": "20",
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "discountPercentage": 20,
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ],
+  "brands": [
+    {
+      "value": "Apple",
+      "label": "Apple",
+      "checked": false,
+      "id": "b659"
+    },
+    {
+      "value": "Samsung",
+      "label": "Samsung",
+      "checked": false,
+      "id": "e5f7"
+    },
+    {
+      "value": "OPPO",
+      "label": "OPPO",
+      "checked": false,
+      "id": "179b"
+    },
+    {
+      "value": "Huawei",
+      "label": "Huawei",
+      "checked": false,
+      "id": "c7cf"
+    },
+    {
+      "value": "Microsoft Surface",
+      "label": "Microsoft Surface",
+      "checked": false,
+      "id": "b3b2"
+    },
+    {
+      "value": "Infinix",
+      "label": "Infinix",
+      "checked": false,
+      "id": "1109"
+    },
+    {
+      "value": "HP Pavilion",
+      "label": "HP Pavilion",
+      "checked": false,
+      "id": "76af"
+    },
+    {
+      "value": "Impression of Acqua Di Gio",
+      "label": "Impression of Acqua Di Gio",
+      "checked": false,
+      "id": "ce55"
+    },
+    {
+      "value": "Royal_Mirage",
+      "label": "Royal_Mirage",
+      "checked": false,
+      "id": "19ca"
+    },
+    {
+      "value": "Fog Scent Xpressio",
+      "label": "Fog Scent Xpressio",
+      "checked": false,
+      "id": "243b"
+    },
+    {
+      "value": "Al Munakh",
+      "label": "Al Munakh",
+      "checked": false,
+      "id": "2fad"
+    },
+    {
+      "value": "Lord - Al-Rehab",
+      "label": "Lord   Al Rehab",
+      "checked": false,
+      "id": "6b4a"
+    },
+    {
+      "value": "L'Oreal Paris",
+      "label": "L'Oreal Paris",
+      "checked": false,
+      "id": "c804"
+    },
+    {
+      "value": "Hemani Tea",
+      "label": "Hemani Tea",
+      "checked": false,
+      "id": "0830"
+    },
+    {
+      "value": "Dermive",
+      "label": "Dermive",
+      "checked": false,
+      "id": "9da4"
+    },
+    {
+      "value": "ROREC White Rice",
+      "label": "ROREC White Rice",
+      "checked": false,
+      "id": "b92c"
+    },
+    {
+      "value": "Fair & Clear",
+      "label": "Fair & Clear",
+      "checked": false,
+      "id": "66d5"
+    },
+    {
+      "value": "Saaf & Khaas",
+      "label": "Saaf & Khaas",
+      "checked": false,
+      "id": "2331"
+    },
+    {
+      "value": "Bake Parlor Big",
+      "label": "Bake Parlor Big",
+      "checked": false,
+      "id": "0926"
+    },
+    {
+      "value": "Baking Food Items",
+      "label": "Baking Food Items",
+      "checked": false,
+      "id": "7f68"
+    },
+    {
+      "value": "fauji",
+      "label": "fauji",
+      "checked": false,
+      "id": "3f33"
+    },
+    {
+      "value": "Dry Rose",
+      "label": "Dry Rose",
+      "checked": false,
+      "id": "dff0"
+    },
+    {
+      "value": "Boho Decor",
+      "label": "Boho Decor",
+      "checked": false,
+      "id": "307c"
+    },
+    {
+      "value": "Flying Wooden",
+      "label": "Flying Wooden",
+      "checked": false,
+      "id": "77ba"
+    },
+    {
+      "value": "LED Lights",
+      "label": "LED Lights",
+      "checked": false,
+      "id": "7ab0"
+    },
+    {
+      "value": "luxury palace",
+      "label": "luxury palace",
+      "checked": false,
+      "id": "b927"
+    },
+    {
+      "value": "Golden",
+      "label": "Golden",
+      "checked": false,
+      "id": "5226"
+    },
+    {
+      "value": "Furniture Bed Set",
+      "label": "Furniture Bed Set",
+      "checked": false,
+      "id": "1692"
+    },
+    {
+      "value": "Ratttan Outdoor",
+      "label": "Ratttan Outdoor",
+      "checked": false,
+      "id": "c0d2"
+    },
+    {
+      "value": "Kitchen Shelf",
+      "label": "Kitchen Shelf",
+      "checked": false,
+      "id": "f8e2"
+    },
+    {
+      "value": "Multi Purpose",
+      "label": "Multi Purpose",
+      "checked": false,
+      "id": "4046"
+    },
+    {
+      "value": "AmnaMart",
+      "label": "AmnaMart",
+      "checked": false,
+      "id": "d926"
+    },
+    {
+      "value": "Professional Wear",
+      "label": "Professional Wear",
+      "checked": false,
+      "id": "ac10"
+    },
+    {
+      "value": "Soft Cotton",
+      "label": "Soft Cotton",
+      "checked": false,
+      "id": "6253"
+    },
+    {
+      "value": "Top Sweater",
+      "label": "Top Sweater",
+      "checked": false,
+      "id": "8f55"
+    },
+    {
+      "value": "RED MICKY MOUSE..",
+      "label": "RED MICKY MOUSE..",
+      "checked": false,
+      "id": "36c7"
+    },
+    {
+      "value": "Digital Printed",
+      "label": "Digital Printed",
+      "checked": false,
+      "id": "52ad"
+    },
+    {
+      "value": "Ghazi Fabric",
+      "label": "Ghazi Fabric",
+      "checked": false,
+      "id": "e7bd"
+    },
+    {
+      "value": "IELGY",
+      "label": "IELGY",
+      "checked": false,
+      "id": "008c"
+    },
+    {
+      "value": "IELGY fashion",
+      "label": "IELGY fashion",
+      "checked": false,
+      "id": "b9fd"
+    },
+    {
+      "value": "Synthetic Leather",
+      "label": "Synthetic Leather",
+      "checked": false,
+      "id": "86b5"
+    },
+    {
+      "value": "Sandals Flip Flops",
+      "label": "Sandals Flip Flops",
+      "checked": false,
+      "id": "7fe3"
+    },
+    {
+      "value": "Maasai Sandals",
+      "label": "Maasai Sandals",
+      "checked": false,
+      "id": "356b"
+    },
+    {
+      "value": "Arrivals Genuine",
+      "label": "Arrivals Genuine",
+      "checked": false,
+      "id": "9032"
+    },
+    {
+      "value": "Vintage Apparel",
+      "label": "Vintage Apparel",
+      "checked": false,
+      "id": "545e"
+    },
+    {
+      "value": "FREE FIRE",
+      "label": "FREE FIRE",
+      "checked": false,
+      "id": "dbcc"
+    },
+    {
+      "value": "The Warehouse",
+      "label": "The Warehouse",
+      "checked": false,
+      "id": "8489"
+    },
+    {
+      "value": "Sneakers",
+      "label": "Sneakers",
+      "checked": false,
+      "id": "bac0"
+    },
+    {
+      "value": "Rubber",
+      "label": "Rubber",
+      "checked": false,
+      "id": "2f5e"
+    },
+    {
+      "value": "Naviforce",
+      "label": "Naviforce",
+      "checked": false,
+      "id": "5aa2"
+    },
+    {
+      "value": "SKMEI 9117",
+      "label": "SKMEI 9117",
+      "checked": false,
+      "id": "b7f0"
+    },
+    {
+      "value": "Strap Skeleton",
+      "label": "Strap Skeleton",
+      "checked": false,
+      "id": "a05c"
+    },
+    {
+      "value": "Stainless",
+      "label": "Stainless",
+      "checked": false,
+      "id": "0f82"
+    },
+    {
+      "value": "Eastern Watches",
+      "label": "Eastern Watches",
+      "checked": false,
+      "id": "6d69"
+    },
+    {
+      "value": "Luxury Digital",
+      "label": "Luxury Digital",
+      "checked": false,
+      "id": "4eb5"
+    },
+    {
+      "value": "Watch Pearls",
+      "label": "Watch Pearls",
+      "checked": false,
+      "id": "0f1b"
+    },
+    {
+      "value": "Bracelet",
+      "label": "Bracelet",
+      "checked": false,
+      "id": "8982"
+    },
+    {
+      "value": "LouisWill",
+      "label": "LouisWill",
+      "checked": false,
+      "id": "881b"
+    },
+    {
+      "value": "Copenhagen Luxe",
+      "label": "Copenhagen Luxe",
+      "checked": false,
+      "id": "c6ae"
+    },
+    {
+      "value": "Steal Frame",
+      "label": "Steal Frame",
+      "checked": false,
+      "id": "05fb"
+    },
+    {
+      "value": "Darojay",
+      "label": "Darojay",
+      "checked": false,
+      "id": "2798"
+    },
+    {
+      "value": "Fashion Jewellery",
+      "label": "Fashion Jewellery",
+      "checked": false,
+      "id": "45ea"
+    },
+    {
+      "value": "Cuff Butterfly",
+      "label": "Cuff Butterfly",
+      "checked": false,
+      "id": "4294"
+    },
+    {
+      "value": "Designer Sun Glasses",
+      "label": "Designer Sun Glasses",
+      "checked": false,
+      "id": "9c01"
+    },
+    {
+      "value": "mastar watch",
+      "label": "mastar watch",
+      "checked": false,
+      "id": "171b"
+    },
+    {
+      "value": "Car Aux",
+      "label": "Car Aux",
+      "checked": false,
+      "id": "645c"
+    },
+    {
+      "value": "W1209 DC12V",
+      "label": "W1209 DC12V",
+      "checked": false,
+      "id": "9559"
+    },
+    {
+      "value": "TC Reusable",
+      "label": "TC Reusable",
+      "checked": false,
+      "id": "9b21"
+    },
+    {
+      "value": "Neon LED Light",
+      "label": "Neon LED Light",
+      "checked": false,
+      "id": "94e9"
+    },
+    {
+      "value": "METRO 70cc Motorcycle - MR70",
+      "label": "METRO 70cc Motorcycle   MR70",
+      "checked": false,
+      "id": "5457"
+    },
+    {
+      "value": "BRAVE BULL",
+      "label": "BRAVE BULL",
+      "checked": false,
+      "id": "9ffe"
+    },
+    {
+      "value": "shock absorber",
+      "label": "shock absorber",
+      "checked": false,
+      "id": "a31c"
+    },
+    {
+      "value": "JIEPOLLY",
+      "label": "JIEPOLLY",
+      "checked": false,
+      "id": "ab98"
+    },
+    {
+      "value": "Xiangle",
+      "label": "Xiangle",
+      "checked": false,
+      "id": "467f"
+    },
+    {
+      "value": "lightingbrilliance",
+      "label": "lightingbrilliance",
+      "checked": false,
+      "id": "9b32"
+    },
+    {
+      "value": "Ifei Home",
+      "label": "Ifei Home",
+      "checked": false,
+      "id": "962b"
+    },
+    {
+      "value": "DADAWU",
+      "label": "DADAWU",
+      "checked": false,
+      "id": "3037"
+    },
+    {
+      "value": "YIOSI",
+      "label": "YIOSI",
+      "checked": false,
+      "id": "b082"
+    }
+  ],
+  "categories": [
+    {
+      "value": "electronics",
+      "label": "Electronics",
+      "checked": false,
+      "id": "a690"
+    },
+    {
+      "value": "jewelery",
+      "label": "Jewelery",
+      "checked": false,
+      "id": "a691"
+    },
+    {
+      "value": "men's clothing",
+      "label": "Men's clothing",
+      "checked": false,
+      "id": "a692"
+    },
+    {
+      "value": "women's clothing",
+      "label": "Women's clothing",
+      "checked": false,
+      "id": "a693"
+    }
+  ],
+  "users": [
+    {
+      "id": "79e6",
+      "email": "test@gmail.com",
+      "password": "Test@12345",
+      "addresses": [
+        {
+          "name": "Test",
+          "email": "test@gmail.com",
+          "phone": "1234567",
+          "street": "103rd Street",
+          "city": "Chennai",
+          "state": "Tamilnadu",
+          "pinCode": "656577"
+        }
+      ]
+    },
+    {
+      "id": "2d2c",
+      "email": "dev@gmail.com",
+      "password": "Dev@12345",
+      "addresses": []
+    }
+  ],
+  "cart": [
+    {
+      "id": "15",
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/15/1.jpg",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+      ],
+      "quantity": 1,
+      "user": "ae90"
+    },
+    {
+      "id": "13",
+      "title": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Fog Scent Xpressio",
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/13/1.jpg",
+        "https://cdn.dummyjson.com/product-images/13/2.png",
+        "https://cdn.dummyjson.com/product-images/13/3.jpg",
+        "https://cdn.dummyjson.com/product-images/13/4.jpg",
+        "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
+      ],
+      "quantity": 2,
+      "user": "ae90"
+    },
+    {
+      "id": "0107",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/1/1.jpg",
+        "https://cdn.dummyjson.com/product-images/1/2.jpg",
+        "https://cdn.dummyjson.com/product-images/1/3.jpg",
+        "https://cdn.dummyjson.com/product-images/1/4.jpg",
+        "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+      ],
+      "quantity": 1,
+      "user": "9b39"
+    }
+  ],
+  "orders": [
+    {
+      "id": "0ca2",
+      "items": [
+        {
+          "id": "cd3d",
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+          "images": [
+            "https://cdn.dummyjson.com/product-images/2/1.jpg",
+            "https://cdn.dummyjson.com/product-images/2/2.jpg",
+            "https://cdn.dummyjson.com/product-images/2/3.jpg",
+            "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": "9b39"
+        },
+        {
+          "id": "9703",
+          "title": "Samsung Galaxy Book",
+          "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+          "price": 1499,
+          "discountPercentage": 4.15,
+          "rating": 4.25,
+          "stock": 50,
+          "brand": "Samsung",
+          "category": "laptops",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+          "images": [
+            "https://cdn.dummyjson.com/product-images/7/1.jpg",
+            "https://cdn.dummyjson.com/product-images/7/2.jpg",
+            "https://cdn.dummyjson.com/product-images/7/3.jpg",
+            "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": "9b39"
+        }
+      ],
+      "totalAmount": 2398,
+      "totalItems": 2,
+      "loggedInUser": {
+        "id": "9b39",
+        "email": "test@gmail.com",
+        "password": "Test@12345",
+        "addresses": [
+          {
+            "name": "Tester1",
+            "email": "tester1@gmail.com",
+            "phone": "123456789",
+            "street": "100th Street",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "pinCode": "546765"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Tester1",
+        "email": "tester1@gmail.com",
+        "phone": "123456789",
+        "street": "100th Street",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "pinCode": "546765"
+      },
+      "status": "Pending"
+    },
+    {
+      "id": "303e",
+      "items": [
+        {
+          "id": "a57f",
+          "title": "Mens Casual Premium Slim Fit T-Shirts ",
+          "discountPercentage": 2,
+          "price": 22.3,
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+          "category": "men's clothing",
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "rating": {
+            "rate": 4.1,
+            "count": 259
+          },
+          "quantity": 1,
+          "user": "79e6"
+        }
+      ],
+      "totalAmount": 22.3,
+      "totalItems": 1,
+      "loggedInUser": {
+        "id": "79e6",
+        "email": "test@gmail.com",
+        "password": "Test@12345",
+        "addresses": [
+          {
+            "name": "Test",
+            "email": "test@gmail.com",
+            "phone": "1234567",
+            "street": "103rd Street",
+            "city": "Chennai",
+            "state": "Tamilnadu",
+            "pinCode": "656577"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Test",
+        "email": "test@gmail.com",
+        "phone": "1234567",
+        "street": "103rd Street",
+        "city": "Chennai",
+        "state": "Tamilnadu",
+        "pinCode": "656577"
+      },
+      "status": "Pending"
+    },
+    {
+      "id": "4d29",
+      "items": [
+        {
+          "id": "6b49",
+          "title": "White Gold Plated Princess",
+          "discountPercentage": 7,
+          "price": 9.99,
+          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+          "category": "jewelery",
+          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "rating": {
+            "rate": 3,
+            "count": 400
+          },
+          "quantity": 1,
+          "user": "79e6"
+        }
+      ],
+      "totalAmount": 9.99,
+      "totalItems": 1,
+      "loggedInUser": {
+        "id": "79e6",
+        "email": "test@gmail.com",
+        "password": "Test@12345",
+        "addresses": [
+          {
+            "name": "Test",
+            "email": "test@gmail.com",
+            "phone": "1234567",
+            "street": "103rd Street",
+            "city": "Chennai",
+            "state": "Tamilnadu",
+            "pinCode": "656577"
+          }
+        ]
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Test",
+        "email": "test@gmail.com",
+        "phone": "1234567",
+        "street": "103rd Street",
+        "city": "Chennai",
+        "state": "Tamilnadu",
+        "pinCode": "656577"
+      },
+      "status": "Pending"
+    },
+    {
+      "id": "30a3",
+      "items": [
+        {
+          "id": "ab33",
+          "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+          "discountPercentage": 14,
+          "price": 999.99,
+          "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+          "category": "electronics",
+          "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+          "rating": {
+            "rate": 2.2,
+            "count": 140
+          },
+          "quantity": 4,
+          "user": "79e6"
+        }
+      ],
+      "totalAmount": 3999.96,
+      "totalItems": 4,
+      "loggedInUser": {
+        "id": "79e6",
+        "email": "test@gmail.com",
+        "password": "Test@12345",
+        "addresses": [
+          {
+            "name": "Test",
+            "email": "test@gmail.com",
+            "phone": "1234567",
+            "street": "103rd Street",
+            "city": "Chennai",
+            "state": "Tamilnadu",
+            "pinCode": "656577"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Test",
+        "email": "test@gmail.com",
+        "phone": "1234567",
+        "street": "103rd Street",
+        "city": "Chennai",
+        "state": "Tamilnadu",
+        "pinCode": "656577"
+      },
+      "status": "Pending"
+    }
+  ]
+}
